@@ -1,0 +1,1 @@
+I will be considering the Nifty 50 data and will create a LSTM network for prediction. Here we have a file data.csv, having its nifty 50 share prices with open, high, low. , close values for a particular day. We will divide the data into training and testing data use this data in our LSTM model to predict the open prices for next 30 days.
